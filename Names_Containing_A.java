@@ -25,7 +25,7 @@ public class Names_Containing_A {
 			}
 		}
 		
-		System.out.println("\nCount = " + count);
+		System.out.println("\nCount = " + count); // 4
 
 	}
 
