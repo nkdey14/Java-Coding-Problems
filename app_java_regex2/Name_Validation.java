@@ -14,7 +14,7 @@ public class Name_Validation {
 		
 		String str = sc.nextLine();
 		
-		Pattern p = Pattern.compile("[^a-zA-Z\\s]");
+		Pattern p = Pattern.compile("[^a-zA-Z\\s.]");
 		
 		Matcher m = p.matcher(str);
 		
