@@ -25,7 +25,7 @@ public class Email_address_Validation {
 			count++;
 		}
 		
-		if(count != 0)
+		if(count != 0 || email.length() <= 12)
 		{
 			System.out.println("Error!");
 		}
