@@ -3,6 +3,7 @@ package app_java_ser_deser;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 
+// De-Serialization
 public class C {
 
 	public static void main(String[] args) {
