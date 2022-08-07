@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
+// Serialization
 public class B {
 
 	public static void main(String[] args) {
