@@ -16,7 +16,7 @@ public class Count_Number_of_Chars_in_String {
 		
 	//	String s = "Pankaj";
 		
-		Pattern p = Pattern.compile("[a-zA-Z\\s]");
+		Pattern p = Pattern.compile("\\S");
 		
 		Matcher m = p.matcher(s);
 		
